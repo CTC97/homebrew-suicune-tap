@@ -7,6 +7,7 @@ class Suicune < Formula
   license "GPL-3.0-or-later"
 
   depends_on "raylib"
+  depends_on "pkg-config"
 
   def install
     bin.install "scripts/init.sh" => "suicune_create"
