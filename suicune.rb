@@ -1,9 +1,9 @@
 class Suicune < Formula
   desc "2D game engine built on top of raylib."
   homepage "https://github.com/CTC97/suicune"
-  url "https://github.com/CTC97/suicune/archive/refs/tags/0e.tar.gz"
-  version "0e"
-  sha256 "e7d9e1c6c9c5891a60db8cdec4acd7300c4c0d460d516eddbdb0e3341240b34d"
+  url "https://github.com/CTC97/suicune/archive/refs/tags/0f.tar.gz"
+  version "0f"
+  sha256 "55e11e99aab8958a4f72e3fcb4ccedd4862c5a5bdab9c153c2930605c41e8091"
   license "GPL-3.0-or-later"
 
   depends_on "raylib"
